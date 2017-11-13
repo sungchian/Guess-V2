@@ -46,4 +46,5 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this,"請輸入:"+min+"~"+max,Toast.LENGTH_LONG)
                         .show();
             }
-}}}
+}
+    }}
